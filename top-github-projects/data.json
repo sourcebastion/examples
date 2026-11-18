@@ -1,0 +1,2647 @@
+{
+ "snapshot_utc": "2026-11-11T00:11:12Z",
+ "environment": "staging",
+ "generated": "2026-11-18 00:49 UTC",
+ "rows": [
+  {
+   "rank": 1,
+   "repository": "codecrafters-io/build-your-own-x",
+   "url": "https://github.com/codecrafters-io/build-your-own-x",
+   "stars": 561616,
+   "status": "assessed",
+   "commit": "ebae1430d28d52dbe12e189ffc7507e08d8c62ca",
+   "ci_attested": true,
+   "component_timeouts": {
+    "gitleaks": 600
+   },
+   "scanned_at": "2026-11-17T10:27:06.331483+00:00",
+   "rubric": "project-security-v2",
+   "overall": {
+    "grade": "A",
+    "score": "100",
+    "count": null,
+    "provisional": true
+   },
+   "categories": {
+    "dependency": {
+     "grade": "A",
+     "score": "100",
+     "count": 0
+    },
+    "iac": {
+     "grade": "A",
+     "score": "100",
+     "count": 0
+    },
+    "license": {
+     "grade": null,
+     "score": null,
+     "count": 0
+    },
+    "remediation": {
+     "grade": "A",
+     "score": "100",
+     "count": 0
+    },
+    "sast": {
+     "grade": "A",
+     "score": "100",
+     "count": 0
+    },
+    "secrets": {
+     "grade": "A",
+     "score": "100",
+     "count": 0
+    }
+   }
+  },
+  {
+   "rank": 2,
+   "repository": "sindresorhus/awesome",
+   "url": "https://github.com/sindresorhus/awesome",
+   "stars": 534869,
+   "status": "assessed",
+   "commit": "bc98e517ddca672f55f9857d714fc3ea3c3540b2",
+   "ci_attested": true,
+   "component_timeouts": {
+    "gitleaks": 600
+   },
+   "scanned_at": "2026-11-17T10:27:45.294827+00:00",
+   "rubric": "project-security-v2",
+   "overall": {
+    "grade": "A",
+    "score": "100",
+    "count": null,
+    "provisional": true
+   },
+   "categories": {
+    "dependency": {
+     "grade": "A",
+     "score": "100",
+     "count": 0
+    },
+    "iac": {
+     "grade": "A",
+     "score": "100",
+     "count": 0
+    },
+    "license": {
+     "grade": null,
+     "score": null,
+     "count": 0
+    },
+    "remediation": {
+     "grade": "A",
+     "score": "100",
+     "count": 0
+    },
+    "sast": {
+     "grade": "A",
+     "score": "100",
+     "count": 0
+    },
+    "secrets": {
+     "grade": "A",
+     "score": "100",
+     "count": 0
+    }
+   }
+  },
+  {
+   "rank": 3,
+   "repository": "public-apis/public-apis",
+   "url": "https://github.com/public-apis/public-apis",
+   "stars": 497934,
+   "status": "assessed",
+   "commit": "d6dab92da95c003e82e5b32c623bd2ad9d6a017f",
+   "ci_attested": true,
+   "component_timeouts": {
+    "gitleaks": 600
+   },
+   "scanned_at": "2026-11-17T10:28:24.564619+00:00",
+   "rubric": "project-security-v2",
+   "overall": {
+    "grade": "D",
+    "score": "83.22401480337118499095176409",
+    "count": null,
+    "provisional": true
+   },
+   "categories": {
+    "dependency": {
+     "grade": "F",
+     "score": "25.50806661517033245928293840087040155665",
+     "count": 16
+    },
+    "iac": {
+     "grade": "A",
+     "score": "100",
+     "count": 0
+    },
+    "license": {
+     "grade": null,
+     "score": null,
+     "count": 0
+    },
+    "remediation": {
+     "grade": "A",
+     "score": "100",
+     "count": 0
+    },
+    "sast": {
+     "grade": "A",
+     "score": "99",
+     "count": 1
+    },
+    "secrets": {
+     "grade": "A",
+     "score": "100",
+     "count": 0
+    }
+   }
+  },
+  {
+   "rank": 4,
+   "repository": "freeCodeCamp/freeCodeCamp",
+   "url": "https://github.com/freeCodeCamp/freeCodeCamp",
+   "stars": 458947,
+   "status": "held"
+  },
+  {
+   "rank": 5,
+   "repository": "morluto/rea",
+   "url": "https://github.com/morluto/rea",
+   "stars": 449931,
+   "status": "held"
+  },
+  {
+   "rank": 6,
+   "repository": "EbookFoundation/free-programming-books",
+   "url": "https://github.com/EbookFoundation/free-programming-books",
+   "stars": 401460,
+   "status": "assessed",
+   "commit": "10e33dd516cc53864e6bece7e6bd51f2a035d06c",
+   "ci_attested": true,
+   "component_timeouts": {
+    "gitleaks": 600
+   },
+   "scanned_at": "2026-11-17T10:36:50.599832+00:00",
+   "rubric": "project-security-v2",
+   "overall": {
+    "grade": "A",
+    "score": "99.59175170953613698363378599",
+    "count": null,
+    "provisional": true
+   },
+   "categories": {
+    "dependency": {
+     "grade": "A",
+     "score": "100",
+     "count": 0
+    },
+    "iac": {
+     "grade": "A",
+     "score": "97.55051025721682190180271592529410860803",
+     "count": 6
+    },
+    "license": {
+     "grade": null,
+     "score": null,
+     "count": 0
+    },
+    "remediation": {
+     "grade": "A",
+     "score": "100",
+     "count": 0
+    },
+    "sast": {
+     "grade": "A",
+     "score": "100",
+     "count": 0
+    },
+    "secrets": {
+     "grade": "A",
+     "score": "100",
+     "count": 0
+    }
+   }
+  },
+  {
+   "rank": 7,
+   "repository": "openclaw/openclaw",
+   "url": "https://github.com/openclaw/openclaw",
+   "stars": 394302,
+   "status": "failed",
+   "reason": "the semgrep scanner ran past its time limit"
+  },
+  {
+   "rank": 8,
+   "repository": "donnemartin/system-design-primer",
+   "url": "https://github.com/donnemartin/system-design-primer",
+   "stars": 377586,
+   "status": "assessed",
+   "commit": "ae9bbd7b02d90b9866215de185217d33f39ab733",
+   "ci_attested": true,
+   "component_timeouts": {
+    "gitleaks": 600
+   },
+   "scanned_at": "2026-11-17T10:53:34.191238+00:00",
+   "rubric": "project-security-v2",
+   "overall": {
+    "grade": "A",
+    "score": "100",
+    "count": null,
+    "provisional": true
+   },
+   "categories": {
+    "dependency": {
+     "grade": "A",
+     "score": "100",
+     "count": 0
+    },
+    "iac": {
+     "grade": "A",
+     "score": "100",
+     "count": 0
+    },
+    "license": {
+     "grade": null,
+     "score": null,
+     "count": 0
+    },
+    "remediation": {
+     "grade": "A",
+     "score": "100",
+     "count": 0
+    },
+    "sast": {
+     "grade": "A",
+     "score": "100",
+     "count": 0
+    },
+    "secrets": {
+     "grade": "A",
+     "score": "100",
+     "count": 0
+    }
+   }
+  },
+  {
+   "rank": 9,
+   "repository": "nilbuild/developer-roadmap",
+   "url": "https://github.com/nilbuild/developer-roadmap",
+   "stars": 371758,
+   "status": "assessed",
+   "commit": "f7ab1ae7221ca6083dcc3be8e7e5bf358c31a305",
+   "ci_attested": true,
+   "component_timeouts": {
+    "gitleaks": 600
+   },
+   "scanned_at": "2026-11-17T10:54:14.633017+00:00",
+   "rubric": "project-security-v2",
+   "overall": {
+    "grade": "A",
+    "score": "90.65157824159553891784266306",
+    "count": null,
+    "provisional": true
+   },
+   "categories": {
+    "dependency": {
+     "grade": "C",
+     "score": "76.92966114599354033787332739187952974652",
+     "count": 4
+    },
+    "iac": {
+     "grade": "A",
+     "score": "97.76393202250021030359082633126872376456",
+     "count": 5
+    },
+    "license": {
+     "grade": null,
+     "score": null,
+     "count": 0
+    },
+    "remediation": {
+     "grade": "A",
+     "score": "100",
+     "count": 0
+    },
+    "sast": {
+     "grade": "B",
+     "score": "82.67949192431122706472553658494127633058",
+     "count": 12
+    },
+    "secrets": {
+     "grade": "A",
+     "score": "100",
+     "count": 0
+    }
+   }
+  },
+  {
+   "rank": 10,
+   "repository": "jwasham/coding-interview-university",
+   "url": "https://github.com/jwasham/coding-interview-university",
+   "stars": 364196,
+   "status": "assessed",
+   "commit": "2399df2f688ba9fafe11c399cc067d7270921bb1",
+   "ci_attested": true,
+   "component_timeouts": {
+    "gitleaks": 600
+   },
+   "scanned_at": "2026-11-17T10:54:59.546527+00:00",
+   "rubric": "project-security-v2",
+   "overall": {
+    "grade": "A",
+    "score": "100",
+    "count": null,
+    "provisional": true
+   },
+   "categories": {
+    "dependency": {
+     "grade": "A",
+     "score": "100",
+     "count": 0
+    },
+    "iac": {
+     "grade": "A",
+     "score": "100",
+     "count": 0
+    },
+    "license": {
+     "grade": null,
+     "score": null,
+     "count": 0
+    },
+    "remediation": {
+     "grade": "A",
+     "score": "100",
+     "count": 0
+    },
+    "sast": {
+     "grade": "A",
+     "score": "100",
+     "count": 0
+    },
+    "secrets": {
+     "grade": "A",
+     "score": "100",
+     "count": 0
+    }
+   }
+  },
+  {
+   "rank": 11,
+   "repository": "awesome-selfhosted/awesome-selfhosted",
+   "url": "https://github.com/awesome-selfhosted/awesome-selfhosted",
+   "stars": 335828,
+   "status": "assessed",
+   "commit": "be7e207d4db60085f0138c2298acfe539c3905fd",
+   "ci_attested": true,
+   "component_timeouts": {
+    "gitleaks": 600
+   },
+   "scanned_at": "2026-11-17T10:55:40.307974+00:00",
+   "rubric": "project-security-v2",
+   "overall": {
+    "grade": "A",
+    "score": "100",
+    "count": null,
+    "provisional": true
+   },
+   "categories": {
+    "dependency": {
+     "grade": "A",
+     "score": "100",
+     "count": 0
+    },
+    "iac": {
+     "grade": "A",
+     "score": "100",
+     "count": 0
+    },
+    "license": {
+     "grade": null,
+     "score": null,
+     "count": 0
+    },
+    "remediation": {
+     "grade": "A",
+     "score": "100",
+     "count": 0
+    },
+    "sast": {
+     "grade": "A",
+     "score": "100",
+     "count": 0
+    },
+    "secrets": {
+     "grade": "A",
+     "score": "100",
+     "count": 0
+    }
+   }
+  },
+  {
+   "rank": 12,
+   "repository": "vinta/awesome-python",
+   "url": "https://github.com/vinta/awesome-python",
+   "stars": 333852,
+   "status": "assessed",
+   "commit": "4c3cb15dc695e95ae64add86b9994add8277f323",
+   "ci_attested": true,
+   "component_timeouts": {
+    "gitleaks": 600
+   },
+   "scanned_at": "2026-11-17T10:56:17.957215+00:00",
+   "rubric": "project-security-v2",
+   "overall": {
+    "grade": "A",
+    "score": "98.88888888888888888888888889",
+    "count": null,
+    "provisional": true
+   },
+   "categories": {
+    "dependency": {
+     "grade": "A",
+     "score": "100",
+     "count": 0
+    },
+    "iac": {
+     "grade": "A",
+     "score": "100",
+     "count": 0
+    },
+    "license": {
+     "grade": null,
+     "score": null,
+     "count": 0
+    },
+    "remediation": {
+     "grade": "A",
+     "score": "100",
+     "count": 0
+    },
+    "sast": {
+     "grade": "A",
+     "score": "95",
+     "count": 1
+    },
+    "secrets": {
+     "grade": "A",
+     "score": "100",
+     "count": 0
+    }
+   }
+  },
+  {
+   "rank": 13,
+   "repository": "mattpocock/skills",
+   "url": "https://github.com/mattpocock/skills",
+   "stars": 320883,
+   "status": "assessed",
+   "commit": "5863806dd4e15c63174bee4e7515a4256792ecfa",
+   "ci_attested": true,
+   "component_timeouts": {
+    "gitleaks": 600
+   },
+   "scanned_at": "2026-11-17T10:56:57.132001+00:00",
+   "rubric": "project-security-v2",
+   "overall": {
+    "grade": "A",
+    "score": "99.83333333333333333333333333",
+    "count": null,
+    "provisional": true
+   },
+   "categories": {
+    "dependency": {
+     "grade": "A",
+     "score": "100",
+     "count": 0
+    },
+    "iac": {
+     "grade": "A",
+     "score": "99",
+     "count": 1
+    },
+    "license": {
+     "grade": null,
+     "score": null,
+     "count": 0
+    },
+    "remediation": {
+     "grade": "A",
+     "score": "100",
+     "count": 0
+    },
+    "sast": {
+     "grade": "A",
+     "score": "100",
+     "count": 0
+    },
+    "secrets": {
+     "grade": "A",
+     "score": "100",
+     "count": 0
+    }
+   }
+  },
+  {
+   "rank": 14,
+   "repository": "obra/superpowers",
+   "url": "https://github.com/obra/superpowers",
+   "stars": 315747,
+   "status": "held"
+  },
+  {
+   "rank": 15,
+   "repository": "affaan-m/ECC",
+   "url": "https://github.com/affaan-m/ECC",
+   "stars": 300803,
+   "status": "held"
+  },
+  {
+   "rank": 16,
+   "repository": "practical-tutorials/project-based-learning",
+   "url": "https://github.com/practical-tutorials/project-based-learning",
+   "stars": 289492,
+   "status": "assessed",
+   "commit": "f99ea242247b9b6df9bd277f832fa5a8f1da28e1",
+   "ci_attested": true,
+   "component_timeouts": {
+    "gitleaks": 600
+   },
+   "scanned_at": "2026-11-17T10:59:57.106683+00:00",
+   "rubric": "project-security-v2",
+   "overall": {
+    "grade": "A",
+    "score": "100",
+    "count": null,
+    "provisional": true
+   },
+   "categories": {
+    "dependency": {
+     "grade": "A",
+     "score": "100",
+     "count": 0
+    },
+    "iac": {
+     "grade": "A",
+     "score": "100",
+     "count": 0
+    },
+    "license": {
+     "grade": null,
+     "score": null,
+     "count": 0
+    },
+    "remediation": {
+     "grade": "A",
+     "score": "100",
+     "count": 0
+    },
+    "sast": {
+     "grade": "A",
+     "score": "100",
+     "count": 0
+    },
+    "secrets": {
+     "grade": "A",
+     "score": "100",
+     "count": 0
+    }
+   }
+  },
+  {
+   "rank": 17,
+   "repository": "deepseek-ai/deepseek-harness",
+   "url": "https://github.com/deepseek-ai/deepseek-harness",
+   "stars": 278179,
+   "status": "held"
+  },
+  {
+   "rank": 18,
+   "repository": "996icu/996.ICU",
+   "url": "https://github.com/996icu/996.ICU",
+   "stars": 277234,
+   "status": "assessed",
+   "commit": "f5e35f48d769bf92ed885888bfe911d3e5b5a63d",
+   "ci_attested": true,
+   "component_timeouts": {
+    "gitleaks": 600
+   },
+   "scanned_at": "2026-11-17T11:04:46.522874+00:00",
+   "rubric": "project-security-v2",
+   "overall": {
+    "grade": "D",
+    "score": "88.72621093165136060143834526",
+    "count": null,
+    "provisional": true
+   },
+   "categories": {
+    "dependency": {
+     "grade": "F",
+     "score": "59.26794919243112270647255365849412763306",
+     "count": 3
+    },
+    "iac": {
+     "grade": "A",
+     "score": "100",
+     "count": 0
+    },
+    "license": {
+     "grade": null,
+     "score": null,
+     "count": 0
+    },
+    "remediation": {
+     "grade": "A",
+     "score": "100",
+     "count": 0
+    },
+    "sast": {
+     "grade": "A",
+     "score": "90.00000000000000000000000000000000000000",
+     "count": 4
+    },
+    "secrets": {
+     "grade": "A",
+     "score": "100",
+     "count": 0
+    }
+   }
+  },
+  {
+   "rank": 19,
+   "repository": "NousResearch/hermes-agent",
+   "url": "https://github.com/NousResearch/hermes-agent",
+   "stars": 262446,
+   "status": "held"
+  },
+  {
+   "rank": 20,
+   "repository": "trimstray/the-book-of-secret-knowledge",
+   "url": "https://github.com/trimstray/the-book-of-secret-knowledge",
+   "stars": 257452,
+   "status": "assessed",
+   "commit": "7d37069a361d3fd9f214480755f7969744e866fa",
+   "ci_attested": true,
+   "component_timeouts": {
+    "gitleaks": 600
+   },
+   "scanned_at": "2026-11-17T11:14:43.179719+00:00",
+   "rubric": "project-security-v2",
+   "overall": {
+    "grade": "A",
+    "score": "100",
+    "count": null,
+    "provisional": true
+   },
+   "categories": {
+    "dependency": {
+     "grade": "A",
+     "score": "100",
+     "count": 0
+    },
+    "iac": {
+     "grade": "A",
+     "score": "100",
+     "count": 0
+    },
+    "license": {
+     "grade": null,
+     "score": null,
+     "count": 0
+    },
+    "remediation": {
+     "grade": "A",
+     "score": "100",
+     "count": 0
+    },
+    "sast": {
+     "grade": "A",
+     "score": "100",
+     "count": 0
+    },
+    "secrets": {
+     "grade": "A",
+     "score": "100",
+     "count": 0
+    }
+   }
+  },
+  {
+   "rank": 21,
+   "repository": "torvalds/linux",
+   "url": "https://github.com/torvalds/linux",
+   "stars": 255184,
+   "status": "failed",
+   "reason": "the semgrep scanner ran past its time limit"
+  },
+  {
+   "rank": 22,
+   "repository": "react/react",
+   "url": "https://github.com/react/react",
+   "stars": 252497,
+   "status": "held"
+  },
+  {
+   "rank": 23,
+   "repository": "multica-ai/andrej-karpathy-skills",
+   "url": "https://github.com/multica-ai/andrej-karpathy-skills",
+   "stars": 231860,
+   "status": "assessed",
+   "commit": "2c606141936f1eeef17fa3043a72095b4765b9c2",
+   "ci_attested": true,
+   "component_timeouts": {
+    "gitleaks": 600
+   },
+   "scanned_at": "2026-11-17T11:35:04.067612+00:00",
+   "rubric": "project-security-v2",
+   "overall": {
+    "grade": "A",
+    "score": "100",
+    "count": null,
+    "provisional": true
+   },
+   "categories": {
+    "dependency": {
+     "grade": "A",
+     "score": "100",
+     "count": 0
+    },
+    "iac": {
+     "grade": "A",
+     "score": "100",
+     "count": 0
+    },
+    "license": {
+     "grade": null,
+     "score": null,
+     "count": 0
+    },
+    "remediation": {
+     "grade": "A",
+     "score": "100",
+     "count": 0
+    },
+    "sast": {
+     "grade": "A",
+     "score": "100",
+     "count": 0
+    },
+    "secrets": {
+     "grade": "A",
+     "score": "100",
+     "count": 0
+    }
+   }
+  },
+  {
+   "rank": 24,
+   "repository": "TheAlgorithms/Python",
+   "url": "https://github.com/TheAlgorithms/Python",
+   "stars": 225998,
+   "status": "assessed",
+   "commit": "30507bbe41397065728167fb09aa820f9fce8dc7",
+   "ci_attested": true,
+   "component_timeouts": {
+    "gitleaks": 600
+   },
+   "scanned_at": "2026-11-17T11:35:43.599097+00:00",
+   "rubric": "project-security-v2",
+   "overall": {
+    "grade": "D",
+    "score": "66.37812206716144002030007474",
+    "count": null,
+    "provisional": true
+   },
+   "categories": {
+    "dependency": {
+     "grade": "F",
+     "score": "0",
+     "count": 87
+    },
+    "iac": {
+     "grade": "B",
+     "score": "81.02652096015221995567831236649052100180",
+     "count": 11
+    },
+    "license": {
+     "grade": null,
+     "score": null,
+     "count": 0
+    },
+    "remediation": {
+     "grade": "A",
+     "score": "100",
+     "count": 0
+    },
+    "sast": {
+     "grade": "D",
+     "score": "62.93165858211231512459160207610565071098",
+     "count": 620
+    },
+    "secrets": {
+     "grade": "A",
+     "score": "100",
+     "count": 0
+    }
+   }
+  },
+  {
+   "rank": 25,
+   "repository": "anomalyco/opencode",
+   "url": "https://github.com/anomalyco/opencode",
+   "stars": 225901,
+   "status": "held"
+  },
+  {
+   "rank": 26,
+   "repository": "vuejs/vue",
+   "url": "https://github.com/vuejs/vue",
+   "stars": 212622,
+   "status": "held"
+  },
+  {
+   "rank": 27,
+   "repository": "ossu/computer-science",
+   "url": "https://github.com/ossu/computer-science",
+   "stars": 211083,
+   "status": "assessed",
+   "commit": "8f8272b1d378d31494240aa1d667aa6b045c6552",
+   "ci_attested": true,
+   "component_timeouts": {
+    "gitleaks": 600
+   },
+   "scanned_at": "2026-11-17T11:43:29.220820+00:00",
+   "rubric": "project-security-v2",
+   "overall": {
+    "grade": "A",
+    "score": "100",
+    "count": null,
+    "provisional": true
+   },
+   "categories": {
+    "dependency": {
+     "grade": "A",
+     "score": "100",
+     "count": 0
+    },
+    "iac": {
+     "grade": "A",
+     "score": "100",
+     "count": 0
+    },
+    "license": {
+     "grade": null,
+     "score": null,
+     "count": 0
+    },
+    "remediation": {
+     "grade": "A",
+     "score": "100",
+     "count": 0
+    },
+    "sast": {
+     "grade": "A",
+     "score": "100",
+     "count": 0
+    },
+    "secrets": {
+     "grade": "A",
+     "score": "100",
+     "count": 0
+    }
+   }
+  },
+  {
+   "rank": 28,
+   "repository": "n8n-io/n8n",
+   "url": "https://github.com/n8n-io/n8n",
+   "stars": 210024,
+   "status": "held"
+  },
+  {
+   "rank": 29,
+   "repository": "DigitalPlatDev/FreeDomain",
+   "url": "https://github.com/DigitalPlatDev/FreeDomain",
+   "stars": 207767,
+   "status": "assessed",
+   "commit": "9c7c54110705760267b07b6e6a6d406d1172a1bf",
+   "ci_attested": true,
+   "component_timeouts": {
+    "gitleaks": 600
+   },
+   "scanned_at": "2026-11-17T11:58:45.413240+00:00",
+   "rubric": "project-security-v2",
+   "overall": {
+    "grade": "A",
+    "score": "100",
+    "count": null,
+    "provisional": true
+   },
+   "categories": {
+    "dependency": {
+     "grade": "A",
+     "score": "100",
+     "count": 0
+    },
+    "iac": {
+     "grade": "A",
+     "score": "100",
+     "count": 0
+    },
+    "license": {
+     "grade": null,
+     "score": null,
+     "count": 0
+    },
+    "remediation": {
+     "grade": "A",
+     "score": "100",
+     "count": 0
+    },
+    "sast": {
+     "grade": "A",
+     "score": "100",
+     "count": 0
+    },
+    "secrets": {
+     "grade": "A",
+     "score": "100",
+     "count": 0
+    }
+   }
+  },
+  {
+   "rank": 30,
+   "repository": "yt-dlp/yt-dlp",
+   "url": "https://github.com/yt-dlp/yt-dlp",
+   "stars": 206727,
+   "status": "held"
+  },
+  {
+   "rank": 31,
+   "repository": "tensorflow/tensorflow",
+   "url": "https://github.com/tensorflow/tensorflow",
+   "stars": 201444,
+   "status": "held"
+  },
+  {
+   "rank": 32,
+   "repository": "firecrawl/firecrawl",
+   "url": "https://github.com/firecrawl/firecrawl",
+   "stars": 200525,
+   "status": "held"
+  },
+  {
+   "rank": 33,
+   "repository": "massgravel/Microsoft-Activation-Scripts",
+   "url": "https://github.com/massgravel/Microsoft-Activation-Scripts",
+   "stars": 198440,
+   "status": "held"
+  },
+  {
+   "rank": 34,
+   "repository": "trekhleb/javascript-algorithms",
+   "url": "https://github.com/trekhleb/javascript-algorithms",
+   "stars": 196727,
+   "status": "assessed",
+   "commit": "85293e3e2b88f4d2ce330d956b139cf628aa1e82",
+   "ci_attested": true,
+   "component_timeouts": {
+    "gitleaks": 600
+   },
+   "scanned_at": "2026-11-17T12:16:17.568238+00:00",
+   "rubric": "project-security-v2",
+   "overall": {
+    "grade": "A",
+    "score": "98.72222222222222222222222222",
+    "count": null,
+    "provisional": true
+   },
+   "categories": {
+    "dependency": {
+     "grade": "A",
+     "score": "100",
+     "count": 0
+    },
+    "iac": {
+     "grade": "A",
+     "score": "99",
+     "count": 1
+    },
+    "license": {
+     "grade": null,
+     "score": null,
+     "count": 0
+    },
+    "remediation": {
+     "grade": "A",
+     "score": "100",
+     "count": 0
+    },
+    "sast": {
+     "grade": "A",
+     "score": "95",
+     "count": 1
+    },
+    "secrets": {
+     "grade": "A",
+     "score": "100",
+     "count": 0
+    }
+   }
+  },
+  {
+   "rank": 35,
+   "repository": "microsoft/vscode",
+   "url": "https://github.com/microsoft/vscode",
+   "stars": 195271,
+   "status": "held"
+  },
+  {
+   "rank": 36,
+   "repository": "microsoft/markitdown",
+   "url": "https://github.com/microsoft/markitdown",
+   "stars": 194818,
+   "status": "held"
+  },
+  {
+   "rank": 37,
+   "repository": "ultraworkers/claw-code",
+   "url": "https://github.com/ultraworkers/claw-code",
+   "stars": 194798,
+   "status": "held"
+  },
+  {
+   "rank": 38,
+   "repository": "avelino/awesome-go",
+   "url": "https://github.com/avelino/awesome-go",
+   "stars": 193172,
+   "status": "assessed",
+   "commit": "c10db2c29a78274c50cd8df31bfc7a27d0d2e996",
+   "ci_attested": true,
+   "component_timeouts": {
+    "gitleaks": 600
+   },
+   "scanned_at": "2026-11-17T12:31:29.906687+00:00",
+   "rubric": "project-security-v2",
+   "overall": {
+    "grade": "A",
+    "score": "95.41877152709148827797621127",
+    "count": null,
+    "provisional": true
+   },
+   "categories": {
+    "dependency": {
+     "grade": "A",
+     "score": "100",
+     "count": 0
+    },
+    "iac": {
+     "grade": "A",
+     "score": "100",
+     "count": 0
+    },
+    "license": {
+     "grade": null,
+     "score": null,
+     "count": 0
+    },
+    "remediation": {
+     "grade": "A",
+     "score": "100",
+     "count": 0
+    },
+    "sast": {
+     "grade": "C",
+     "score": "79.38447187191169725089295072012961487428",
+     "count": 17
+    },
+    "secrets": {
+     "grade": "A",
+     "score": "100",
+     "count": 0
+    }
+   }
+  },
+  {
+   "rank": 39,
+   "repository": "anthropics/skills",
+   "url": "https://github.com/anthropics/skills",
+   "stars": 192289,
+   "status": "assessed",
+   "commit": "e4bb5d960d87126ff3b3a8af1a104b7db67560ba",
+   "ci_attested": true,
+   "component_timeouts": {
+    "gitleaks": 600
+   },
+   "scanned_at": "2026-11-17T12:32:19.417108+00:00",
+   "rubric": "project-security-v2",
+   "overall": {
+    "grade": "B",
+    "score": "85.2262923067437747566273288",
+    "count": null,
+    "provisional": true
+   },
+   "categories": {
+    "dependency": {
+     "grade": "A",
+     "score": "100",
+     "count": 0
+    },
+    "iac": {
+     "grade": "A",
+     "score": "100",
+     "count": 0
+    },
+    "license": {
+     "grade": null,
+     "score": null,
+     "count": 0
+    },
+    "remediation": {
+     "grade": "A",
+     "score": "100",
+     "count": 0
+    },
+    "sast": {
+     "grade": "F",
+     "score": "33.51831538034698640482297957868142329505",
+     "count": 122
+    },
+    "secrets": {
+     "grade": "A",
+     "score": "100",
+     "count": 0
+    }
+   }
+  },
+  {
+   "rank": 40,
+   "repository": "ohmyzsh/ohmyzsh",
+   "url": "https://github.com/ohmyzsh/ohmyzsh",
+   "stars": 190435,
+   "status": "held"
+  },
+  {
+   "rank": 41,
+   "repository": "DietrichGebert/ponytail",
+   "url": "https://github.com/DietrichGebert/ponytail",
+   "stars": 188384,
+   "status": "assessed",
+   "commit": "96608e078b2d5ea607c5c3b8b5a54d1c1fba6846",
+   "ci_attested": true,
+   "component_timeouts": {
+    "gitleaks": 600
+   },
+   "scanned_at": "2026-11-17T12:34:31.035717+00:00",
+   "rubric": "project-security-v2",
+   "overall": {
+    "grade": "A",
+    "score": "90.25003956956430882177067966",
+    "count": null,
+    "provisional": true
+   },
+   "categories": {
+    "dependency": {
+     "grade": "A",
+     "score": "100",
+     "count": 0
+    },
+    "iac": {
+     "grade": "A",
+     "score": "100",
+     "count": 0
+    },
+    "license": {
+     "grade": null,
+     "score": null,
+     "count": 0
+    },
+    "remediation": {
+     "grade": "A",
+     "score": "100",
+     "count": 0
+    },
+    "sast": {
+     "grade": "F",
+     "score": "56.12517806303938969796805846291845219562",
+     "count": 77
+    },
+    "secrets": {
+     "grade": "A",
+     "score": "100",
+     "count": 0
+    }
+   }
+  },
+  {
+   "rank": 42,
+   "repository": "521xueweihan/HelloGitHub",
+   "url": "https://github.com/521xueweihan/HelloGitHub",
+   "stars": 188021,
+   "status": "assessed",
+   "commit": "d65699c2892f3ad7516398a3fbd3855913f9d17d",
+   "ci_attested": true,
+   "component_timeouts": {
+    "gitleaks": 600
+   },
+   "scanned_at": "2026-11-17T12:35:36.438160+00:00",
+   "rubric": "project-security-v2",
+   "overall": {
+    "grade": "A",
+    "score": "98.88888888888888888888888889",
+    "count": null,
+    "provisional": true
+   },
+   "categories": {
+    "dependency": {
+     "grade": "A",
+     "score": "100",
+     "count": 0
+    },
+    "iac": {
+     "grade": "A",
+     "score": "100",
+     "count": 0
+    },
+    "license": {
+     "grade": null,
+     "score": null,
+     "count": 0
+    },
+    "remediation": {
+     "grade": "A",
+     "score": "100",
+     "count": 0
+    },
+    "sast": {
+     "grade": "A",
+     "score": "95",
+     "count": 1
+    },
+    "secrets": {
+     "grade": "A",
+     "score": "100",
+     "count": 0
+    }
+   }
+  },
+  {
+   "rank": 43,
+   "repository": "Significant-Gravitas/AutoGPT",
+   "url": "https://github.com/Significant-Gravitas/AutoGPT",
+   "stars": 187983,
+   "status": "assessed",
+   "commit": "657153887ea25aca92014ee713f9ceb344378e74",
+   "ci_attested": true,
+   "component_timeouts": {
+    "gitleaks": 600
+   },
+   "scanned_at": "2026-11-17T12:36:43.758784+00:00",
+   "rubric": "project-security-v2",
+   "overall": {
+    "grade": "F",
+    "score": "38.88888888888888888888888889",
+    "count": null,
+    "provisional": true
+   },
+   "categories": {
+    "dependency": {
+     "grade": "F",
+     "score": "0",
+     "count": 550
+    },
+    "iac": {
+     "grade": "F",
+     "score": "0",
+     "count": 223
+    },
+    "license": {
+     "grade": null,
+     "score": null,
+     "count": 0
+    },
+    "remediation": {
+     "grade": "A",
+     "score": "100",
+     "count": 0
+    },
+    "sast": {
+     "grade": "F",
+     "score": "0",
+     "count": 2049
+    },
+    "secrets": {
+     "grade": "A",
+     "score": "100",
+     "count": 0
+    }
+   }
+  },
+  {
+   "rank": 44,
+   "repository": "jackfrued/Python-100-Days",
+   "url": "https://github.com/jackfrued/Python-100-Days",
+   "stars": 187791,
+   "status": "failed",
+   "reason": "Store unavailable: findings store rejected the scan"
+  },
+  {
+   "rank": 45,
+   "repository": "ollama/ollama",
+   "url": "https://github.com/ollama/ollama",
+   "stars": 186577,
+   "status": "held"
+  },
+  {
+   "rank": 46,
+   "repository": "CyC2018/CS-Notes",
+   "url": "https://github.com/CyC2018/CS-Notes",
+   "stars": 186476,
+   "status": "held"
+  },
+  {
+   "rank": 47,
+   "repository": "getify/You-Dont-Know-JS",
+   "url": "https://github.com/getify/You-Dont-Know-JS",
+   "stars": 184846,
+   "status": "assessed",
+   "commit": "7a83c851af26c422893219d41c53f607a2f1bfe0",
+   "ci_attested": true,
+   "component_timeouts": {
+    "gitleaks": 600
+   },
+   "scanned_at": "2026-11-17T12:44:59.661329+00:00",
+   "rubric": "project-security-v2",
+   "overall": {
+    "grade": "A",
+    "score": "100",
+    "count": null,
+    "provisional": true
+   },
+   "categories": {
+    "dependency": {
+     "grade": "A",
+     "score": "100",
+     "count": 0
+    },
+    "iac": {
+     "grade": "A",
+     "score": "100",
+     "count": 0
+    },
+    "license": {
+     "grade": null,
+     "score": null,
+     "count": 0
+    },
+    "remediation": {
+     "grade": "A",
+     "score": "100",
+     "count": 0
+    },
+    "sast": {
+     "grade": "A",
+     "score": "100",
+     "count": 0
+    },
+    "secrets": {
+     "grade": "A",
+     "score": "100",
+     "count": 0
+    }
+   }
+  },
+  {
+   "rank": 48,
+   "repository": "flutter/flutter",
+   "url": "https://github.com/flutter/flutter",
+   "stars": 181111,
+   "status": "held"
+  },
+  {
+   "rank": 49,
+   "repository": "f/prompts.chat",
+   "url": "https://github.com/f/prompts.chat",
+   "stars": 176843,
+   "status": "held"
+  },
+  {
+   "rank": 50,
+   "repository": "github/gitignore",
+   "url": "https://github.com/github/gitignore",
+   "stars": 176465,
+   "status": "assessed",
+   "commit": "b71db924d35085e481ad7c7ad8a7435b8d8b3016",
+   "ci_attested": true,
+   "component_timeouts": {
+    "gitleaks": 600
+   },
+   "scanned_at": "2026-11-17T12:49:49.171998+00:00",
+   "rubric": "project-security-v2",
+   "overall": {
+    "grade": "A",
+    "score": "100",
+    "count": null,
+    "provisional": true
+   },
+   "categories": {
+    "dependency": {
+     "grade": "A",
+     "score": "100",
+     "count": 0
+    },
+    "iac": {
+     "grade": "A",
+     "score": "100",
+     "count": 0
+    },
+    "license": {
+     "grade": null,
+     "score": null,
+     "count": 0
+    },
+    "remediation": {
+     "grade": "A",
+     "score": "100",
+     "count": 0
+    },
+    "sast": {
+     "grade": "A",
+     "score": "100",
+     "count": 0
+    },
+    "secrets": {
+     "grade": "A",
+     "score": "100",
+     "count": 0
+    }
+   }
+  },
+  {
+   "rank": 51,
+   "repository": "twbs/bootstrap",
+   "url": "https://github.com/twbs/bootstrap",
+   "stars": 175038,
+   "status": "assessed",
+   "commit": "da71a1044296e82b047419f16a90ee0d6aa23886",
+   "ci_attested": true,
+   "component_timeouts": {
+    "gitleaks": 600
+   },
+   "scanned_at": "2026-11-17T12:50:28.124380+00:00",
+   "rubric": "project-security-v2",
+   "overall": {
+    "grade": "A",
+    "score": "95.41877152709148827797621127",
+    "count": null,
+    "provisional": true
+   },
+   "categories": {
+    "dependency": {
+     "grade": "A",
+     "score": "100",
+     "count": 0
+    },
+    "iac": {
+     "grade": "A",
+     "score": "100",
+     "count": 0
+    },
+    "license": {
+     "grade": null,
+     "score": null,
+     "count": 0
+    },
+    "remediation": {
+     "grade": "A",
+     "score": "100",
+     "count": 0
+    },
+    "sast": {
+     "grade": "C",
+     "score": "79.38447187191169725089295072012961487428",
+     "count": 17
+    },
+    "secrets": {
+     "grade": "A",
+     "score": "100",
+     "count": 0
+    }
+   }
+  },
+  {
+   "rank": 52,
+   "repository": "huggingface/transformers",
+   "url": "https://github.com/huggingface/transformers",
+   "stars": 168753,
+   "status": "held"
+  },
+  {
+   "rank": 53,
+   "repository": "msitarzewski/agency-agents",
+   "url": "https://github.com/msitarzewski/agency-agents",
+   "stars": 167666,
+   "status": "assessed",
+   "commit": "8ae6164602c95ca78828b148b9052460ee426885",
+   "ci_attested": true,
+   "component_timeouts": {
+    "gitleaks": 600
+   },
+   "scanned_at": "2026-11-17T12:53:41.224585+00:00",
+   "rubric": "project-security-v2",
+   "overall": {
+    "grade": "A",
+    "score": "100.000000000000000000000000",
+    "count": null,
+    "provisional": true
+   },
+   "categories": {
+    "dependency": {
+     "grade": "A",
+     "score": "100",
+     "count": 0
+    },
+    "iac": {
+     "grade": "A",
+     "score": "100",
+     "count": 0
+    },
+    "license": {
+     "grade": null,
+     "score": null,
+     "count": 0
+    },
+    "remediation": {
+     "grade": "A",
+     "score": "100",
+     "count": 0
+    },
+    "sast": {
+     "grade": "A",
+     "score": "100.0000000000000000000000000000000000000",
+     "count": 16
+    },
+    "secrets": {
+     "grade": "A",
+     "score": "100",
+     "count": 0
+    }
+   }
+  },
+  {
+   "rank": 54,
+   "repository": "AUTOMATIC1111/stable-diffusion-webui",
+   "url": "https://github.com/AUTOMATIC1111/stable-diffusion-webui",
+   "stars": 165288,
+   "status": "assessed",
+   "commit": "82a973c04367123ae98bd9abdf80d9eda9b910e2",
+   "ci_attested": true,
+   "component_timeouts": {
+    "gitleaks": 600
+   },
+   "scanned_at": "2026-11-17T12:54:21.182789+00:00",
+   "rubric": "project-security-v2",
+   "overall": {
+    "grade": "D",
+    "score": "66.15262391966506158343231877",
+    "count": null,
+    "provisional": true
+   },
+   "categories": {
+    "dependency": {
+     "grade": "F",
+     "score": "0",
+     "count": 274
+    },
+    "iac": {
+     "grade": "A",
+     "score": "100",
+     "count": 0
+    },
+    "license": {
+     "grade": null,
+     "score": null,
+     "count": 0
+    },
+    "remediation": {
+     "grade": "A",
+     "score": "100",
+     "count": 0
+    },
+    "sast": {
+     "grade": "F",
+     "score": "47.68680763849277712544543444212834838220",
+     "count": 213
+    },
+    "secrets": {
+     "grade": "A",
+     "score": "100",
+     "count": 0
+    }
+   }
+  },
+  {
+   "rank": 55,
+   "repository": "jlevy/the-art-of-command-line",
+   "url": "https://github.com/jlevy/the-art-of-command-line",
+   "stars": 162735,
+   "status": "assessed",
+   "commit": "6b50745d2e788add2e8f1ed29010e72659a9a074",
+   "ci_attested": true,
+   "component_timeouts": {
+    "gitleaks": 600
+   },
+   "scanned_at": "2026-11-17T12:55:08.455353+00:00",
+   "rubric": "project-security-v2",
+   "overall": {
+    "grade": "A",
+    "score": "100",
+    "count": null,
+    "provisional": true
+   },
+   "categories": {
+    "dependency": {
+     "grade": "A",
+     "score": "100",
+     "count": 0
+    },
+    "iac": {
+     "grade": "A",
+     "score": "100",
+     "count": 0
+    },
+    "license": {
+     "grade": null,
+     "score": null,
+     "count": 0
+    },
+    "remediation": {
+     "grade": "A",
+     "score": "100",
+     "count": 0
+    },
+    "sast": {
+     "grade": "A",
+     "score": "100",
+     "count": 0
+    },
+    "secrets": {
+     "grade": "A",
+     "score": "100",
+     "count": 0
+    }
+   }
+  },
+  {
+   "rank": 56,
+   "repository": "langgenius/dify",
+   "url": "https://github.com/langgenius/dify",
+   "stars": 160885,
+   "status": "held"
+  },
+  {
+   "rank": 57,
+   "repository": "Snailclimb/JavaGuide",
+   "url": "https://github.com/Snailclimb/JavaGuide",
+   "stars": 159514,
+   "status": "held"
+  },
+  {
+   "rank": 58,
+   "repository": "open-webui/open-webui",
+   "url": "https://github.com/open-webui/open-webui",
+   "stars": 158324,
+   "status": "held"
+  },
+  {
+   "rank": 59,
+   "repository": "clash-verge-rev/clash-verge-rev",
+   "url": "https://github.com/clash-verge-rev/clash-verge-rev",
+   "stars": 157636,
+   "status": "assessed",
+   "commit": "e0b6fb96d7b2afe0230c1cd2aab10d2c71c03268",
+   "ci_attested": true,
+   "component_timeouts": {
+    "gitleaks": 600
+   },
+   "scanned_at": "2026-11-17T13:05:58.565594+00:00",
+   "rubric": "project-security-v2",
+   "overall": {
+    "grade": "D",
+    "score": "68.2437536016504425536987134",
+    "count": null,
+    "provisional": true
+   },
+   "categories": {
+    "dependency": {
+     "grade": "F",
+     "score": "43.93420901988448537072018002595151609403",
+     "count": 10
+    },
+    "iac": {
+     "grade": "F",
+     "score": "49.87596159536403963954011643173395965151",
+     "count": 66
+    },
+    "license": {
+     "grade": null,
+     "score": null,
+     "count": 0
+    },
+    "remediation": {
+     "grade": "A",
+     "score": "100",
+     "count": 0
+    },
+    "sast": {
+     "grade": "F",
+     "score": "50.75571099101947639126894292541187759150",
+     "count": 97
+    },
+    "secrets": {
+     "grade": "A",
+     "score": "100",
+     "count": 0
+    }
+   }
+  },
+  {
+   "rank": 60,
+   "repository": "langflow-ai/langflow",
+   "url": "https://github.com/langflow-ai/langflow",
+   "stars": 156514,
+   "status": "held"
+  },
+  {
+   "rank": 61,
+   "repository": "anthropics/claude-code",
+   "url": "https://github.com/anthropics/claude-code",
+   "stars": 155210,
+   "status": "assessed",
+   "commit": "e2c963a886e345ca22d5e882ff8a63e3192529d0",
+   "ci_attested": true,
+   "component_timeouts": {
+    "gitleaks": 600
+   },
+   "scanned_at": "2026-11-17T13:10:24.657838+00:00",
+   "rubric": "project-security-v2",
+   "overall": {
+    "grade": "A",
+    "score": "91.35843388104959914583665166",
+    "count": null,
+    "provisional": true
+   },
+   "categories": {
+    "dependency": {
+     "grade": "A",
+     "score": "91.33974596215561353236276829247063816528",
+     "count": 3
+    },
+    "iac": {
+     "grade": "C",
+     "score": "71.24461405388262545538586111854123828054",
+     "count": 24
+    },
+    "license": {
+     "grade": null,
+     "score": null,
+     "count": 0
+    },
+    "remediation": {
+     "grade": "A",
+     "score": "100",
+     "count": 0
+    },
+    "sast": {
+     "grade": "A",
+     "score": "91.33974596215561353236276829247063816528",
+     "count": 3
+    },
+    "secrets": {
+     "grade": "A",
+     "score": "100",
+     "count": 0
+    }
+   }
+  },
+  {
+   "rank": 62,
+   "repository": "Genymobile/scrcpy",
+   "url": "https://github.com/Genymobile/scrcpy",
+   "stars": 154514,
+   "status": "assessed",
+   "commit": "a60891aea193d92e7e5c3942700eca63f9d19a5f",
+   "ci_attested": true,
+   "component_timeouts": {
+    "gitleaks": 600
+   },
+   "scanned_at": "2026-11-17T13:11:22.543058+00:00",
+   "rubric": "project-security-v2",
+   "overall": {
+    "grade": "C",
+    "score": "77.61111111111111111111111111",
+    "count": null,
+    "provisional": true
+   },
+   "categories": {
+    "dependency": {
+     "grade": "A",
+     "score": "100",
+     "count": 0
+    },
+    "iac": {
+     "grade": "A",
+     "score": "99",
+     "count": 1
+    },
+    "license": {
+     "grade": null,
+     "score": null,
+     "count": 0
+    },
+    "remediation": {
+     "grade": "A",
+     "score": "100",
+     "count": 0
+    },
+    "sast": {
+     "grade": "F",
+     "score": "0",
+     "count": 77
+    },
+    "secrets": {
+     "grade": "A",
+     "score": "100",
+     "count": 0
+    }
+   }
+  },
+  {
+   "rank": 63,
+   "repository": "farion1231/cc-switch",
+   "url": "https://github.com/farion1231/cc-switch",
+   "stars": 153334,
+   "status": "held"
+  },
+  {
+   "rank": 64,
+   "repository": "langchain-ai/langchain",
+   "url": "https://github.com/langchain-ai/langchain",
+   "stars": 149326,
+   "status": "held"
+  },
+  {
+   "rank": 65,
+   "repository": "github/spec-kit",
+   "url": "https://github.com/github/spec-kit",
+   "stars": 149202,
+   "status": "assessed",
+   "commit": "ea1a31ec88fd5277aed91010d849dd0c9ddd7513",
+   "ci_attested": true,
+   "component_timeouts": {
+    "gitleaks": 600
+   },
+   "scanned_at": "2026-11-17T13:14:41.520133+00:00",
+   "rubric": "project-security-v2",
+   "overall": {
+    "grade": "A",
+    "score": "93.42934293564340812749758138",
+    "count": null,
+    "provisional": true
+   },
+   "categories": {
+    "dependency": {
+     "grade": "A",
+     "score": "100",
+     "count": 0
+    },
+    "iac": {
+     "grade": "A",
+     "score": "100",
+     "count": 0
+    },
+    "license": {
+     "grade": null,
+     "score": null,
+     "count": 0
+    },
+    "remediation": {
+     "grade": "A",
+     "score": "100",
+     "count": 0
+    },
+    "sast": {
+     "grade": "C",
+     "score": "70.43204321039533657373911621141181937076",
+     "count": 10
+    },
+    "secrets": {
+     "grade": "A",
+     "score": "100",
+     "count": 0
+    }
+   }
+  },
+  {
+   "rank": 66,
+   "repository": "airbnb/javascript",
+   "url": "https://github.com/airbnb/javascript",
+   "stars": 148012,
+   "status": "assessed",
+   "commit": "8ed19247bef145e3cc41b24a02dd1fe6d9b5e681",
+   "ci_attested": true,
+   "component_timeouts": {
+    "gitleaks": 600
+   },
+   "scanned_at": "2026-11-17T13:15:37.201932+00:00",
+   "rubric": "project-security-v2",
+   "overall": {
+    "grade": "A",
+    "score": "99.47295372330527011133351774",
+    "count": null,
+    "provisional": true
+   },
+   "categories": {
+    "dependency": {
+     "grade": "A",
+     "score": "100",
+     "count": 0
+    },
+    "iac": {
+     "grade": "A",
+     "score": "96.83772233983162066800110645556728146628",
+     "count": 10
+    },
+    "license": {
+     "grade": null,
+     "score": null,
+     "count": 0
+    },
+    "remediation": {
+     "grade": "A",
+     "score": "100",
+     "count": 0
+    },
+    "sast": {
+     "grade": "A",
+     "score": "100",
+     "count": 0
+    },
+    "secrets": {
+     "grade": "A",
+     "score": "100",
+     "count": 0
+    }
+   }
+  },
+  {
+   "rank": 67,
+   "repository": "nextlevelbuilder/ui-ux-pro-max-skill",
+   "url": "https://github.com/nextlevelbuilder/ui-ux-pro-max-skill",
+   "stars": 147798,
+   "status": "assessed",
+   "commit": "e59ff376a41f7ca47b7541ad5c116495cbade3ee",
+   "ci_attested": true,
+   "component_timeouts": {
+    "gitleaks": 600
+   },
+   "scanned_at": "2026-11-17T13:16:17.498908+00:00",
+   "rubric": "project-security-v2",
+   "overall": {
+    "grade": "D",
+    "score": "65.30595736002054311417089204",
+    "count": null,
+    "provisional": true
+   },
+   "categories": {
+    "dependency": {
+     "grade": "F",
+     "score": "0",
+     "count": 33
+    },
+    "iac": {
+     "grade": "A",
+     "score": "99",
+     "count": 1
+    },
+    "license": {
+     "grade": null,
+     "score": null,
+     "count": 0
+    },
+    "remediation": {
+     "grade": "A",
+     "score": "100",
+     "count": 0
+    },
+    "sast": {
+     "grade": "F",
+     "score": "44.62680812009244401376901419816224896283",
+     "count": 68
+    },
+    "secrets": {
+     "grade": "A",
+     "score": "100",
+     "count": 0
+    }
+   }
+  },
+  {
+   "rank": 68,
+   "repository": "Comfy-Org/ComfyUI",
+   "url": "https://github.com/Comfy-Org/ComfyUI",
+   "stars": 146185,
+   "status": "held"
+  },
+  {
+   "rank": 69,
+   "repository": "Graphify-Labs/graphify",
+   "url": "https://github.com/Graphify-Labs/graphify",
+   "stars": 145639,
+   "status": "held"
+  },
+  {
+   "rank": 70,
+   "repository": "x1xhlol/system-prompts-and-models-of-ai-tools",
+   "url": "https://github.com/x1xhlol/system-prompts-and-models-of-ai-tools",
+   "stars": 144603,
+   "status": "assessed",
+   "commit": "162db92f54d717d8ebd12292e155aeef32bb4b3c",
+   "ci_attested": true,
+   "component_timeouts": {
+    "gitleaks": 600
+   },
+   "scanned_at": "2026-11-17T13:20:44.179802+00:00",
+   "rubric": "project-security-v2",
+   "overall": {
+    "grade": "A",
+    "score": "100",
+    "count": null,
+    "provisional": true
+   },
+   "categories": {
+    "dependency": {
+     "grade": "A",
+     "score": "100",
+     "count": 0
+    },
+    "iac": {
+     "grade": "A",
+     "score": "100",
+     "count": 0
+    },
+    "license": {
+     "grade": null,
+     "score": null,
+     "count": 0
+    },
+    "remediation": {
+     "grade": "A",
+     "score": "100",
+     "count": 0
+    },
+    "sast": {
+     "grade": "A",
+     "score": "100",
+     "count": 0
+    },
+    "secrets": {
+     "grade": "A",
+     "score": "100",
+     "count": 0
+    }
+   }
+  },
+  {
+   "rank": 71,
+   "repository": "Shubhamsaboo/awesome-llm-apps",
+   "url": "https://github.com/Shubhamsaboo/awesome-llm-apps",
+   "stars": 144371,
+   "status": "held"
+  },
+  {
+   "rank": 72,
+   "repository": "iptv-org/iptv",
+   "url": "https://github.com/iptv-org/iptv",
+   "stars": 143752,
+   "status": "held"
+  },
+  {
+   "rank": 73,
+   "repository": "vercel/next.js",
+   "url": "https://github.com/vercel/next.js",
+   "stars": 143456,
+   "status": "held"
+  },
+  {
+   "rank": 74,
+   "repository": "yangshun/tech-interview-handbook",
+   "url": "https://github.com/yangshun/tech-interview-handbook",
+   "stars": 143251,
+   "status": "held"
+  },
+  {
+   "rank": 75,
+   "repository": "ripienaar/free-for-dev",
+   "url": "https://github.com/ripienaar/free-for-dev",
+   "stars": 142500,
+   "status": "assessed",
+   "commit": "a4aa34bff8c6da1ff18a58f3192cd7fa8e195604",
+   "ci_attested": true,
+   "component_timeouts": {
+    "gitleaks": 600
+   },
+   "scanned_at": "2026-11-17T13:30:15.116029+00:00",
+   "rubric": "project-security-v2",
+   "overall": {
+    "grade": "A",
+    "score": "100",
+    "count": null,
+    "provisional": true
+   },
+   "categories": {
+    "dependency": {
+     "grade": "A",
+     "score": "100",
+     "count": 0
+    },
+    "iac": {
+     "grade": "A",
+     "score": "100",
+     "count": 0
+    },
+    "license": {
+     "grade": null,
+     "score": null,
+     "count": 0
+    },
+    "remediation": {
+     "grade": "A",
+     "score": "100",
+     "count": 0
+    },
+    "sast": {
+     "grade": "A",
+     "score": "100",
+     "count": 0
+    },
+    "secrets": {
+     "grade": "A",
+     "score": "100",
+     "count": 0
+    }
+   }
+  },
+  {
+   "rank": 76,
+   "repository": "harry0703/MoneyPrinterTurbo",
+   "url": "https://github.com/harry0703/MoneyPrinterTurbo",
+   "stars": 141980,
+   "status": "held"
+  },
+  {
+   "rank": 77,
+   "repository": "ytdl-org/youtube-dl",
+   "url": "https://github.com/ytdl-org/youtube-dl",
+   "stars": 141526,
+   "status": "held"
+  },
+  {
+   "rank": 78,
+   "repository": "garrytan/gstack",
+   "url": "https://github.com/garrytan/gstack",
+   "stars": 141100,
+   "status": "held"
+  },
+  {
+   "rank": 79,
+   "repository": "microsoft/PowerToys",
+   "url": "https://github.com/microsoft/PowerToys",
+   "stars": 140839,
+   "status": "held"
+  },
+  {
+   "rank": 80,
+   "repository": "golang/go",
+   "url": "https://github.com/golang/go",
+   "stars": 139841,
+   "status": "failed",
+   "reason": "the semgrep scanner stopped before finishing"
+  },
+  {
+   "rank": 81,
+   "repository": "labuladong/fucking-algorithm",
+   "url": "https://github.com/labuladong/fucking-algorithm",
+   "stars": 136046,
+   "status": "assessed",
+   "commit": "5e4d13259282bc150a13dc7b1545a149aa904c9d",
+   "ci_attested": true,
+   "component_timeouts": {
+    "gitleaks": 600
+   },
+   "scanned_at": "2026-11-17T13:45:18.340390+00:00",
+   "rubric": "project-security-v2",
+   "overall": {
+    "grade": "A",
+    "score": "100",
+    "count": null,
+    "provisional": true
+   },
+   "categories": {
+    "dependency": {
+     "grade": "A",
+     "score": "100",
+     "count": 0
+    },
+    "iac": {
+     "grade": "A",
+     "score": "100",
+     "count": 0
+    },
+    "license": {
+     "grade": null,
+     "score": null,
+     "count": 0
+    },
+    "remediation": {
+     "grade": "A",
+     "score": "100",
+     "count": 0
+    },
+    "sast": {
+     "grade": "A",
+     "score": "100",
+     "count": 0
+    },
+    "secrets": {
+     "grade": "A",
+     "score": "100",
+     "count": 0
+    }
+   }
+  },
+  {
+   "rank": 82,
+   "repository": "excalidraw/excalidraw",
+   "url": "https://github.com/excalidraw/excalidraw",
+   "stars": 135460,
+   "status": "held"
+  },
+  {
+   "rank": 83,
+   "repository": "openai/codex",
+   "url": "https://github.com/openai/codex",
+   "stars": 134772,
+   "status": "held"
+  },
+  {
+   "rank": 84,
+   "repository": "ggml-org/llama.cpp",
+   "url": "https://github.com/ggml-org/llama.cpp",
+   "stars": 133959,
+   "status": "held"
+  },
+  {
+   "rank": 85,
+   "repository": "krahets/hello-algo",
+   "url": "https://github.com/krahets/hello-algo",
+   "stars": 132155,
+   "status": "assessed",
+   "commit": "ded7ddc63514f9055d0e61e86ae690d69d7bc11c",
+   "ci_attested": true,
+   "component_timeouts": {
+    "gitleaks": 600
+   },
+   "scanned_at": "2026-11-17T13:53:20.734631+00:00",
+   "rubric": "project-security-v2",
+   "overall": {
+    "grade": "D",
+    "score": "68.13876799301796363535309312",
+    "count": null,
+    "provisional": true
+   },
+   "categories": {
+    "dependency": {
+     "grade": "A",
+     "score": "100",
+     "count": 0
+    },
+    "iac": {
+     "grade": "F",
+     "score": "42.16594129144111514545189206778838638854",
+     "count": 55
+    },
+    "license": {
+     "grade": null,
+     "score": null,
+     "count": 0
+    },
+    "remediation": {
+     "grade": "A",
+     "score": "100",
+     "count": 0
+    },
+    "sast": {
+     "grade": "F",
+     "score": "0",
+     "count": 264
+    },
+    "secrets": {
+     "grade": "A",
+     "score": "100",
+     "count": 0
+    }
+   }
+  },
+  {
+   "rank": 86,
+   "repository": "Chalarangelo/30-seconds-of-code",
+   "url": "https://github.com/Chalarangelo/30-seconds-of-code",
+   "stars": 129482,
+   "status": "assessed",
+   "commit": "bd756f8b2283a38560efe83cb30af38324d4e9e9",
+   "ci_attested": true,
+   "component_timeouts": {
+    "gitleaks": 600
+   },
+   "scanned_at": "2026-11-17T13:55:53.540598+00:00",
+   "rubric": "project-security-v2",
+   "overall": {
+    "grade": "A",
+    "score": "94.90824922782684443712439201",
+    "count": null,
+    "provisional": true
+   },
+   "categories": {
+    "dependency": {
+     "grade": "A",
+     "score": "100",
+     "count": 0
+    },
+    "iac": {
+     "grade": "A",
+     "score": "100",
+     "count": 0
+    },
+    "license": {
+     "grade": null,
+     "score": null,
+     "count": 0
+    },
+    "remediation": {
+     "grade": "A",
+     "score": "100",
+     "count": 0
+    },
+    "sast": {
+     "grade": "C",
+     "score": "77.08712152522079996705976403135995755510",
+     "count": 21
+    },
+    "secrets": {
+     "grade": "A",
+     "score": "100",
+     "count": 0
+    }
+   }
+  },
+  {
+   "rank": 87,
+   "repository": "kubernetes/kubernetes",
+   "url": "https://github.com/kubernetes/kubernetes",
+   "stars": 128986,
+   "status": "failed",
+   "reason": "connection failed: SSLEOFError"
+  },
+  {
+   "rank": 88,
+   "repository": "rustdesk/rustdesk",
+   "url": "https://github.com/rustdesk/rustdesk",
+   "stars": 128925,
+   "status": "held"
+  },
+  {
+   "rank": 89,
+   "repository": "shadcn-ui/ui",
+   "url": "https://github.com/shadcn-ui/ui",
+   "stars": 127848,
+   "status": "held"
+  },
+  {
+   "rank": 90,
+   "repository": "react/react-native",
+   "url": "https://github.com/react/react-native",
+   "stars": 126896,
+   "status": "held"
+  },
+  {
+   "rank": 91,
+   "repository": "VoltAgent/awesome-design-md",
+   "url": "https://github.com/VoltAgent/awesome-design-md",
+   "stars": 126485,
+   "status": "assessed",
+   "commit": "fcc70284932276d085f01ef9f83edde90b1258cb",
+   "ci_attested": true,
+   "component_timeouts": {
+    "gitleaks": 600
+   },
+   "scanned_at": "2026-11-17T14:13:02.479906+00:00",
+   "rubric": "project-security-v2",
+   "overall": {
+    "grade": "A",
+    "score": "100",
+    "count": null,
+    "provisional": true
+   },
+   "categories": {
+    "dependency": {
+     "grade": "A",
+     "score": "100",
+     "count": 0
+    },
+    "iac": {
+     "grade": "A",
+     "score": "100",
+     "count": 0
+    },
+    "license": {
+     "grade": null,
+     "score": null,
+     "count": 0
+    },
+    "remediation": {
+     "grade": "A",
+     "score": "100",
+     "count": 0
+    },
+    "sast": {
+     "grade": "A",
+     "score": "100",
+     "count": 0
+    },
+    "secrets": {
+     "grade": "A",
+     "score": "100",
+     "count": 0
+    }
+   }
+  },
+  {
+   "rank": 92,
+   "repository": "Hack-with-Github/Awesome-Hacking",
+   "url": "https://github.com/Hack-with-Github/Awesome-Hacking",
+   "stars": 125195,
+   "status": "assessed",
+   "commit": "440486fd08b0a0d9ad9a041a0bb234dcdf65dee2",
+   "ci_attested": true,
+   "component_timeouts": {
+    "gitleaks": 600
+   },
+   "scanned_at": "2026-11-17T14:13:45.255796+00:00",
+   "rubric": "project-security-v2",
+   "overall": {
+    "grade": "A",
+    "score": "99.83333333333333333333333333",
+    "count": null,
+    "provisional": true
+   },
+   "categories": {
+    "dependency": {
+     "grade": "A",
+     "score": "100",
+     "count": 0
+    },
+    "iac": {
+     "grade": "A",
+     "score": "99",
+     "count": 1
+    },
+    "license": {
+     "grade": null,
+     "score": null,
+     "count": 0
+    },
+    "remediation": {
+     "grade": "A",
+     "score": "100",
+     "count": 0
+    },
+    "sast": {
+     "grade": "A",
+     "score": "100",
+     "count": 0
+    },
+    "secrets": {
+     "grade": "A",
+     "score": "100",
+     "count": 0
+    }
+   }
+  },
+  {
+   "rank": 93,
+   "repository": "electron/electron",
+   "url": "https://github.com/electron/electron",
+   "stars": 123845,
+   "status": "held"
+  },
+  {
+   "rank": 94,
+   "repository": "nodejs/node",
+   "url": "https://github.com/nodejs/node",
+   "stars": 123466,
+   "status": "held"
+  },
+  {
+   "rank": 95,
+   "repository": "microsoft/generative-ai-for-beginners",
+   "url": "https://github.com/microsoft/generative-ai-for-beginners",
+   "stars": 123317,
+   "status": "assessed",
+   "commit": "50ec32a81cf783f37d33caf89a7910dee01b4fc2",
+   "ci_attested": true,
+   "component_timeouts": {
+    "gitleaks": 600
+   },
+   "scanned_at": "2026-11-17T14:32:14.533547+00:00",
+   "rubric": "project-security-v2",
+   "overall": {
+    "grade": "A",
+    "score": "95.28595479208968317066103759",
+    "count": null,
+    "provisional": true
+   },
+   "categories": {
+    "dependency": {
+     "grade": "B",
+     "score": "85.85786437626904951198311275790301921432",
+     "count": 8
+    },
+    "iac": {
+     "grade": "A",
+     "score": "100",
+     "count": 0
+    },
+    "license": {
+     "grade": null,
+     "score": null,
+     "count": 0
+    },
+    "remediation": {
+     "grade": "A",
+     "score": "100",
+     "count": 0
+    },
+    "sast": {
+     "grade": "A",
+     "score": "92.92893218813452475599155637895150960715",
+     "count": 2
+    },
+    "secrets": {
+     "grade": "A",
+     "score": "100",
+     "count": 0
+    }
+   }
+  },
+  {
+   "rank": 96,
+   "repository": "TauricResearch/TradingAgents",
+   "url": "https://github.com/TauricResearch/TradingAgents",
+   "stars": 121880,
+   "status": "held"
+  },
+  {
+   "rank": 97,
+   "repository": "rust-lang/rust",
+   "url": "https://github.com/rust-lang/rust",
+   "stars": 121750,
+   "status": "held"
+  },
+  {
+   "rank": 98,
+   "repository": "stablyai/orca",
+   "url": "https://github.com/stablyai/orca",
+   "stars": 121426,
+   "status": "held"
+  },
+  {
+   "rank": 99,
+   "repository": "earendil-works/pi",
+   "url": "https://github.com/earendil-works/pi",
+   "stars": 121251,
+   "status": "held"
+  },
+  {
+   "rank": 100,
+   "repository": "browser-use/browser-use",
+   "url": "https://github.com/browser-use/browser-use",
+   "stars": 120600,
+   "status": "held"
+  }
+ ]
+}
